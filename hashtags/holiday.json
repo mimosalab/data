@@ -1,29 +1,29 @@
 {
-    "title" : "#Trending",
-    "description" : "Popular Hashtags",
-    "reach" : "89% reach",
+    "title" : "#Mood",
+    "description" : "Describes your current mood",
+    "reach" : "75% reach",
     "posts" : "120M posts",
     "hashtags" : [
         {
-            "hashtag" : "#Instagood #Instadaily",
+            "hashtag" : "#instagood #love #happy #funny #happydays #happyday #smile #fun #goodday #instahappy #goodmood #sohappy #happier #excited #feelgood #smiling #funtimes #captionplus #feliz #laughing #feelgoodphoto #joy #happyhappy #enjoy #laugh #lovelife #20likes #bestday",
             "posts" : "120M",
             "language" : "English",
             "countries" : "India",
             "reach" : "89% reach"
         },
         {
-            "hashtag" : "#Instagood #Instadaily",
+            "hashtag" : "#sad #nothappy #me #cry #crying #tears #instasad #sadness #depressed #alone #help #hope #l4l #insta #captionplus #mood #badmood #moods #upset #stressed #goingmental #cheermeup #hate #lifesucks #annoyed #nolove",
             "posts" : "120M",
             "language" : "English",
             "countries" : "India",
-            "reach" : "89% reach"
+            "reach" : "86% reach"
         },
         {
-            "hashtag" : "#Instagood #Instadaily",
+            "hashtag" : "#instagood #funny #joke #epic #photooftheday #lol #smile #fun #amazing #instahappy #crazy #instafun #witty #tweegram #humor #cash #jokes #wacky #hilarious #captionplus #friends #laughing #joking #laugh #haha #lmfao #lmao #funnypictures #money #20likes",
             "posts" : "120M",
             "language" : "English",
             "countries" : "India",
-            "reach" : "89% reach"
+            "reach" : "79% reach"
         }
     ]
 }
