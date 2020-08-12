@@ -1,29 +1,29 @@
 {
-    "title" : "#Trending",
-    "description" : "Popular Hashtags",
-    "reach" : "89% reach",
+    "title" : "#photography",
+    "description" : "Popular photography hashtags",
+    "reach" : "80% reach",
     "posts" : "120M posts",
     "hashtags" : [
         {
-            "hashtag" : "#Instagood #Instadaily",
+            "hashtag" : " #bwwednesday #bwstyleoftheday #instagrambnw #igersbnw #monoart #blackandwhitecreators #blackandwhitephotography #bw_society #blackandwhite #bw #photographicplate #blackandwhiteonly #bnwprofile #monochromatic #photographicfilm #blackandwhitetype #bnw #blackandwhitephotographies #photomontage #bnwinstagram #igblackandwhite #blackandwhiteimage #bnw_captures #photojournalism",
             "posts" : "120M",
             "language" : "English",
             "countries" : "India",
-            "reach" : "89% reach"
+            "reach" : "86% reach"
         },
         {
-            "hashtag" : "#Instagood #Instadaily",
+            "hashtag" : "#travel #nature #outdoors #photography #photooftheday #winter #landscape #trekking #mountains #camping #love #forest #naturelovers #beautiful #sunset #sun #adventure #naturephotography #sky #explore # #outdoor #hiking #snow #mountain #wanderlust #sea",
             "posts" : "120M",
             "language" : "English",
             "countries" : "India",
-            "reach" : "89% reach"
+            "reach" : "82% reach"
         },
         {
-            "hashtag" : "#Instagood #Instadaily",
+            "hashtag" : "#macrophotographylove #macrophotographylovers #macrophotography #macrophotographyworld #macroworld #macrophotographyinhyderabad #macronature #macrophotographyphone #macrophoto #macrobiotic #MacroClique #macromood #macrolife #macrolove #macrocounting #macrolovers #macromob #macrophotographylover #macros #macrolens #macrooftheday #macron #macrophotographyforus #macro #macroshot #macroflower #macronutrients",
             "posts" : "120M",
             "language" : "English",
             "countries" : "India",
-            "reach" : "89% reach"
+            "reach" : "59% reach"
         }
     ]
 }
