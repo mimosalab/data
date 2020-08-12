@@ -1,29 +1,36 @@
 {
     "title" : "#Trending",
     "description" : "Popular Hashtags",
-    "reach" : "89% reach",
+    "reach" : "86% reach",
     "posts" : "120M posts",
     "hashtags" : [
         {
-            "hashtag" : "#Instagood #Instadaily",
+            "hashtag" : "#photography #art #dog #cat #instagood #bird #love #travel #nature #beautiful #birds #photooftheday #cute #animal #sky #animals #pet #sun #instagram #captionplus #wildlife #naturephotography #birdsofinstagram #of #wildlifephotography",
             "posts" : "120M",
             "language" : "English",
             "countries" : "India",
-            "reach" : "89% reach"
+            "reach" : "94% reach"
         },
         {
-            "hashtag" : "#Instagood #Instadaily",
+            "hashtag" : "#cat #instagood #cats #nature #catsagram #adorable #photooftheday #animal #catstagram #kitten #animals #kitty #kittens #pet #pets #petsagram #petstagram #captionplus #sleeping #catsofinstagram #ilovemycat #instagramcats #catoftheday #lovecats #furry #lovekittens #catlover #instacat",
             "posts" : "120M",
             "language" : "English",
             "countries" : "India",
-            "reach" : "89% reach"
+            "reach" : "88% reach"
         },
         {
-            "hashtag" : "#Instagood #Instadaily",
+            "hashtag" : "#instagood #farm #horses #beautiful #rider #horsestagram #babyhorse #animals #horses_of_instagram #wild #ponies #horsesofinstagram #instahorses #jockey #mane #captionplus #horseshow #horse #grass #field #horseshoe #riding #riders #gallop #ilovemyhorse",
             "posts" : "120M",
             "language" : "English",
             "countries" : "India",
-            "reach" : "89% reach"
+            "reach" : "83% reach"
+        },
+        {
+            "hashtag" : "#dog #instagood #puppy #pup #adorable #photooftheday #cute #animal #eyes #dogs_of_instagram #animals #pet #pets #petsagram #dogsitting #captionplus #dogsofinstagram #ilovemydog #dogstagram #instagramdogs #dogoftheday #lovedogs #hound #lovepuppies #doglover #instapuppy #instadog",
+            "posts" : "120M",
+            "language" : "English",
+            "countries" : "India",
+            "reach" : "67% reach"
         }
     ]
 }
